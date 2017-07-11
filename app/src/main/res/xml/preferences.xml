@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+
+        android:key="pref_sync"
+
+        android:title="@string/underline_title"
+
+        android:summary="@string/summary_checkbox_underlined"
+
+        android:defaultValue="true" />
+    <ListPreference
+
+        android:key="pref_color"
+
+        android:title="@string/pref_colors"
+
+        android:dialogTitle="@string/pref_colors"
+
+        android:entries="@array/color_entries"
+
+        android:entryValues="@array/color_values" />
+</PreferenceScreen>

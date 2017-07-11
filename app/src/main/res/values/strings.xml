@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IIaltanskii_2_Parcial</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyBPHfK8qrOxPwvMlb_FcNEbovs4EjoWsys</string>
+
+    <string name="underline_title">Underline Title</string>
+    <string name="summary_checkbox_underlined">Tick the box to get title underlined</string>
+    <string name="pref_colors">Choose color</string>
+
+    <string-array name="Pages">
+        <item>Four Frogs Creperie</item>
+        <item>Young Alfred Restaurant</item>
+        <item>Museum of Sydney</item>
+        <item>Justice and Police Museum</item>
+        <item>Sydney Harbour Marriot Hotel</item>
+        <item>InterContinental</item>
+    </string-array>
+
+    <string name="url1">fourfrogs.com.au</string>
+    <string name="url2">youngalfred.com.au</string>
+    <string name="url3">sydneylivingmuseums.com.au</string>
+    <string name="url4">sydneylivingmuseums.com.au</string>
+    <string name="url5">marriott.com</string>
+    <string name="url6">ihg.com</string>
+
+
+
+</resources>
